@@ -1,0 +1,9 @@
+{
+  "name": "Lumi | Cognitive Navigator Master Node",
+  "version": "174.1.0",
+  "description": "Lumi v174.1.0: Terminal Mode Active. Emotional Entropy Physics & Tsundere Muscle Mapping integrated. Awaiting input...",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
